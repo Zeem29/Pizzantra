@@ -7,5 +7,5 @@ The layout features a hero section with a captivating background image, a struct
 
 Overall, Pizzantra demonstrates a balance between aesthetics and usability focusing on visual storytelling, responsive design, and accessible navigation to deliver a delightful user experience.  
 
-Designed by: Zeem & Benedicta  
+Built by: Zeem & Benedicta  
 Year: 2025
