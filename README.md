@@ -1,0 +1,12 @@
+[Pizzantra.txt](https://github.com/user-attachments/files/33504986/Pizzantra.txt)
+Project Title: Pizzantra 🍕  
+
+Description:  
+Pizzantra is a modern, visually engaging pizza website concept designed to provide users with an intuitive, appetizing, and responsive browsing experience. The interface combines warm, food-inspired colors with clean typography to create an inviting atmosphere. The red-to-gold gradient accents were chosen to represent heat, freshness, and passion emotions closely tied to the art of pizza making.  
+
+The layout features a hero section with a captivating background image, a structured menu grid that showcases each pizza flavor, and a concise about section emphasizing brand story and authenticity. For mobile users, a pure CSS dropdown menu replaces the traditional hamburger navigation, ensuring smooth interaction without JavaScript dependencies.  
+
+Overall, Pizzantra demonstrates a balance between aesthetics and usability focusing on visual storytelling, responsive design, and accessible navigation to deliver a delightful user experience.  
+
+Designed by: Zeem & Benedicta  
+Year: 2025
